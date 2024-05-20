@@ -1,0 +1,9 @@
+body{
+    padding:0;
+    margin: 0;
+   height:100vh;
+   background-image:url("../floral.jpg") ;
+   background-repeat: no-repeat ; 
+   background-size: cover;
+position: relative;
+}
